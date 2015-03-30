@@ -1,0 +1,23 @@
+{
+  "name": "wx-errmsg",
+  "version": "1.0.0",
+  "description": "微信全局返回码",
+  "main": "lib\\index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nagucc/wx-errmsg.git"
+  },
+  "keywords": [
+    "wechat",
+    "weixin"
+  ],
+  "author": "na57",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nagucc/wx-errmsg/issues"
+  },
+  "homepage": "https://github.com/nagucc/wx-errmsg"
+}
